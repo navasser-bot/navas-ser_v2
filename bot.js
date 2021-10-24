@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ navas-ser_v2 ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nhttps://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nhttps://chat.whatsapp.com/Ehzb7mm3xBE7bi7GTstY5g``` ' 
                                     , MessageType.text);
                             }
                         }
