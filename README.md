@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="New Project 36 [CC0BB33].png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="navas-ser_bot" src="https://img.shields.io/badge/navas-ser_bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
